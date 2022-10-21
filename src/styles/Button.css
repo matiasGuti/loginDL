@@ -1,0 +1,19 @@
+.button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-send {
+  width: 30%;
+  padding: 5px 2px;
+  background-color: chocolate;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.button-send:hover {
+  background-color: rgb(163, 81, 22);
+}

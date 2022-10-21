@@ -1,0 +1,14 @@
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.input-label {
+  font-size: 1.3rem;
+}
+
+.input-box {
+  padding: 8px;
+  border-radius: 5px;
+}
